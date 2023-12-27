@@ -1,12 +1,12 @@
-## Hi there 👋
+## Development for MT6877 Oplus devices
 
-<!--
+<img align="right" width="350" height="350" src="https://ongpng.com/wp-content/uploads/2023/04/7-40.png">
 
-**Here are some ideas to get you started:**
+### Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [**Device tree**](https://github.com/oneplus-mt6877/android_device_oneplus_ivan.git)
+* [**Old Kernel tree**](https://github.com/oneplus-mt6877/kernel_oneplus_ivan.git)
+* [**OSS Kernel tree**](https://github.com/oneplus-mt6877/android_kernel_oneplus_ivan_4.14.git)
+* [**Vendor tree**](https://github.com/oneplus-mt6877/android_vendor_oneplus_ivan.git)
+* [**Firmware**](https://github.com/MT6877-DEVS/vendor_firmware_ivan.git)
+* 
