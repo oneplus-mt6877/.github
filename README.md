@@ -1,6 +1,6 @@
 ## Development for MT6877 Oplus devices
 
-<img align="right" width="350" height="350" src="https://ongpng.com/wp-content/uploads/2023/04/7-40.png">
+<img align="right" width="350" height="350" src="https://github.com/Notganesh/Temp/blob/fec359b9e8500a3e79d17cb8e6ac16957250b485/68747470733a2f2f6f6e67706e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30342f372d34302e706e67-removebg.png">
 
 ### Repositories
 
